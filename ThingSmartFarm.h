@@ -3,7 +3,6 @@
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
-#include "Parameter.h"
 
 const char* ssid     = SECRET_SSID;
 const char* password = SECRET_PASS;
